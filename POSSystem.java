@@ -1429,13 +1429,3 @@ class ProductEditDialog extends JDialog {
         }
     }
 }
-
-class Test {
-    public static void main(String[] args) {
-        JFrame f = new JFrame();
-        f.add(new JTextField(20));
-        f.setSize(300, 100);
-        f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        f.setVisible(true);
-    }
-}
