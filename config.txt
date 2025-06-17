@@ -1,0 +1,5 @@
+store_phone=(555) 123-4567
+store_name=Modern POS Store
+store_address=123 Main Street
+receipt_footer=Thank you for your business!
+tax_rate=8.5

@@ -1,0 +1,5 @@
+P001|Coffee|2.5|88|Beverages||5||1.5
+P002|Sandwich|5.99|39|Food||5||3.594
+P003|Water Bottle|1.25|189|Beverages||5||0.75
+P004|Chips|1.99|71|Snacks||5||1.194
+P005|Energy Drink|3.5|56|Beverages||5||2.1

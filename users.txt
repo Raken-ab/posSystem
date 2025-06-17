@@ -1,0 +1,3 @@
+admin|admin123|manager|System Administrator
+emp1|emp123|employee|John Employee
+Raken|12345|manager|Raken
